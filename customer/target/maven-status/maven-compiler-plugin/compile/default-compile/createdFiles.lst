@@ -1,0 +1,7 @@
+fi\haagahelia\customer\domain\CustomerDAO.class
+fi\haagahelia\customer\CustomerApplication.class
+fi\haagahelia\customer\domain\CustomerRowMapper.class
+fi\haagahelia\customer\web\CustomerController.class
+fi\haagahelia\customer\domain\Customer.class
+fi\haagahelia\customer\domain\CustomerRepository.class
+fi\haagahelia\customer\domain\CustomerDAOImpl.class
